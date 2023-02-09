@@ -1,2 +1,0 @@
-# SQLEinstiegBuch
- SQL Learning
